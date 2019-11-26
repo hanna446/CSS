@@ -1,0 +1,5 @@
+/* 8. separa el contenido (section) del borde de su contenedor (padding) */
+
+.element {
+    background-color: brown;
+}
