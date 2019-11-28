@@ -1,8 +1,9 @@
 /* 5. centra el texto horizontal y verticalmente (justify-align) */
 
 .container {
-width: 50px;
-height: 50px;
-background-color: gray;
-color: mediumvioletred;
+width: 100px;
+height: 100px;
+background-color: #2E2E2E;
+color: #F21692;
+font-weight: bolder;
 }

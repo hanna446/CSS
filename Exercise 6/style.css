@@ -1,7 +1,13 @@
 /* 6. separa los elementos (margin) */
 
-.first-element, .second-element {
-    width: 50px;
-    height: 50px;
-    background-color: gray;
+.first-element,
+.second-element {
+  width: 50px;
+  height: 50px;
+  background-color: gray;
+}
+
+.first-element__content,
+.second-element__content {
+    margin: 0;
 }
